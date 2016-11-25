@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.*;
 
-public class meow{
+public class clock{
 	public static void main(String args[]){
    
       Scanner input = new Scanner(System.in);
